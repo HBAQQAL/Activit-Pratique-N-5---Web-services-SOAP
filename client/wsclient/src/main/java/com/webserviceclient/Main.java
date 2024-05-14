@@ -1,4 +1,4 @@
-package com.soap;
+package com.webserviceclient;
 
 public class Main {
     public static void main(String[] args) {
